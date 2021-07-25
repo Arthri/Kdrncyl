@@ -5,6 +5,9 @@
     <PackageLicenseExpression>MIT-0</PackageLicenseExpression>
     <Version>0.0.1</Version>
     <Copyright>Copyright © 2021 Arthri</Copyright>
+    <PackageProjectUrl>https://github.com/Arthri/DynCmd</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Arthri/DynCmd</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
