@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace DynCmd
+namespace Kdrncyl.Core
 {
     /// <summary>
     /// Provides methods for splitting input into arguments.

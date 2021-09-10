@@ -6,8 +6,8 @@
     <Version>0.0.1</Version>
     <Description>A command library designed with versatility in mind</Description>
     <Copyright>Copyright © 2021 Arthri</Copyright>
-    <PackageProjectUrl>https://github.com/Arthri/DynCmd</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Arthri/DynCmd</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Arthri/Kdrncyl</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Arthri/Kdrnycl</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
